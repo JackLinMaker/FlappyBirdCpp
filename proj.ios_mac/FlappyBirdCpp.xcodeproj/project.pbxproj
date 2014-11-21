@@ -76,6 +76,8 @@
 		E783F7F41A1F2D38000A4A74 /* StatusLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E783F7F11A1F2D38000A4A74 /* StatusLayer.cpp */; };
 		E783F7F71A1F2D62000A4A74 /* GameLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E783F7F51A1F2D62000A4A74 /* GameLayer.cpp */; };
 		E783F7F81A1F2D62000A4A74 /* GameLayer.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E783F7F51A1F2D62000A4A74 /* GameLayer.cpp */; };
+		E783F7FB1A1F433F000A4A74 /* Number.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E783F7F91A1F433F000A4A74 /* Number.cpp */; };
+		E783F7FC1A1F433F000A4A74 /* Number.cpp in Sources */ = {isa = PBXBuildFile; fileRef = E783F7F91A1F433F000A4A74 /* Number.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -150,6 +152,8 @@
 		E783F7F21A1F2D38000A4A74 /* StatusLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StatusLayer.h; sourceTree = "<group>"; };
 		E783F7F51A1F2D62000A4A74 /* GameLayer.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = GameLayer.cpp; sourceTree = "<group>"; };
 		E783F7F61A1F2D62000A4A74 /* GameLayer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = GameLayer.h; sourceTree = "<group>"; };
+		E783F7F91A1F433F000A4A74 /* Number.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = Number.cpp; sourceTree = "<group>"; };
+		E783F7FA1A1F433F000A4A74 /* Number.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Number.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -278,6 +282,8 @@
 				E783F7F21A1F2D38000A4A74 /* StatusLayer.h */,
 				E783F7F51A1F2D62000A4A74 /* GameLayer.cpp */,
 				E783F7F61A1F2D62000A4A74 /* GameLayer.h */,
+				E783F7F91A1F433F000A4A74 /* Number.cpp */,
+				E783F7FA1A1F433F000A4A74 /* Number.h */,
 			);
 			name = Classes;
 			path = ../Classes;
@@ -471,6 +477,7 @@
 				E783F7D31A1ED5D6000A4A74 /* AtlasLoader.cpp in Sources */,
 				E783F7D71A1ED9C9000A4A74 /* LoadingScene.cpp in Sources */,
 				E783F7F31A1F2D38000A4A74 /* StatusLayer.cpp in Sources */,
+				E783F7FB1A1F433F000A4A74 /* Number.cpp in Sources */,
 				E783F7E31A1EEBA7000A4A74 /* BirdSprite.cpp in Sources */,
 				503AE10117EB989F00D1A890 /* main.m in Sources */,
 			);
@@ -491,6 +498,7 @@
 				E783F7DC1A1EDCD7000A4A74 /* WelcomeScene.cpp in Sources */,
 				E783F7E81A1EF65A000A4A74 /* GameScene.cpp in Sources */,
 				E783F7F01A1F2849000A4A74 /* OptionLayer.cpp in Sources */,
+				E783F7FC1A1F433F000A4A74 /* Number.cpp in Sources */,
 				E783F7D81A1ED9C9000A4A74 /* LoadingScene.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
